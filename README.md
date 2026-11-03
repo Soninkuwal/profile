@@ -19,9 +19,12 @@
     <img src="https://komarev.com/ghpvc/?username=Soninkuwal&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Visitor Count" />
   </p>
 
-<!-- Social Media & Contact Links -->
+  <!-- Social Media & Contact Links -->
   <h3>🌐 Connect With Me</h3>
   <p>
+    <a href="https://kuwal-company.pages.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/Official_Website-Kuwal_Company-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Company Website" />
+    </a>
     <a href="https://youtube.com/@KANHAIYALALMEENAKUWAL?si=h3dCxUvAkberx5vU" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
     </a>
@@ -34,21 +37,18 @@
     <a href="https://www.facebook.com/kanha.meena.526875/" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
-    <!-- <a href="https://www.linkedin.com/in/your-username" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> -->
-    </a>
     <a href="mailto:sonickuwal@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
-
 
 </div>
 
 ---
 
 ### 🏢 About & Corporate Profile
-- 🏛️ **Organization:** Founder & Director at **Kuwal Company Pvt Ltd, Lalsot**
+- 🏛️ **Organization:** Founder & Director at **[Kuwal Company Pvt Ltd, Lalsot](https://kuwal-company.pages.dev/)**
+- 🌐 **Official Portal:** [kuwal-company.pages.dev](https://kuwal-company.pages.dev/)
 - ☁️ **Cloud & Google Experience:** Google Cloud Platform, Google Workspace automation, Firebase Realtime Database & Cloud Functions
 - ⚙️ **Core Focus:** High-performance web applications, video streaming pipelines (HLS/FFmpeg), and automation bots
 - 🎯 **Location:** Lalsot, Rajasthan, India
